@@ -14,8 +14,10 @@
   3. Power BI Dashboard
 + Key Findings
 + Screenshots/Dashboard Previews
++ Conclusion
 ---
 ## Dataset Description
+#### This dataset contains all the transactions occurring for a UK-based and registered, non-store online retail between 01/12/2009 and 09/12/2011. The dataset was gotten from kaggle and it contains 1,067,371 rows and 8 columns namely; invoice number, stock code, quantity, invoice date, unit price, customer ID and country.
 ---
 ## Objectives
 ---
@@ -25,6 +27,15 @@
 ---
 ### Analysis and Isights
 ## Excel Analysis
-#Insghts
+### Insights
 ## SQL Queries
+### Insights
+## Power BI Dashboard
+### Insights
+---
+## Key Findings
+---
+## Dashboard Previews
+---
+## Conclusion
 
