@@ -25,7 +25,7 @@
 3. Observe the store's Monthly Revenue
 4. Highlight the store's top customers by sales and by number of orders
 5. Track repeat customers VS one-time customers
-6. Observe sales made by country
+6. Observe top countries by number of customers
 7. Identify top countries by revenue
 8. Detect any cancellations (negative quantity)
 ---
@@ -57,10 +57,15 @@
 + More sales were made in November across all years considered
 ---
 ## Key Findings
-+ The store's monthly revenue shows that the store sold more in November
-+ The store's top customers by sales and number of oreders can be seen here. [Here](https://ibb.co/v6qj86yf)
++ The store's monthly revenue shows that the store sold more in November [See it here](https://ibb.co/6JrDMyGn)
++ The store's top customers by sales and number of orders can be seen [here](https://ibb.co/ZRbKXKtR) and [here](https://ibb.co/YmtXGPj)
++ Repeat Customers vs one-time customers respectively. [Click for repeat](https://ibb.co/Q7KWbbXF) [Here for one-time](https://ibb.co/zVqkK4kQ)
++ Top countries by total revenue [Click to see](https://ibb.co/1GkZy7q4)
++ Top countries by number of customer [here](https://ibb.co/DfxX1xph)
 ---
 ## Dashboard Previews
+[Excel Dashboard](https://ibb.co/YY5PBMb)
+[Power BI Dashboard](https://ibb.co/kVzVd4SC)
 ---
 ## Conclusion
 
