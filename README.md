@@ -45,16 +45,20 @@
 [Pivotting](https://ibb.co/Q3zFNYP8)
 ### Insights
 + There were more sales made in the united kingdom
-+ More sales were made in January across all years considered
++ More sales were made in November across all years considered
 ## SQL Queries
 [Queries](https://ibb.co/Wvj1smts)
 ### Insights
 + [Top 5 countries bym sales- United KIngdom being the first](https://ibb.co/v6qj86yf)
 + [Detecting negative quantities](https://ibb.co/Tqb00Zv5)
 ## Power BI Dashboard
+[Total Revenue by Month and Sum of Quantity](https://ibb.co/svXLCmrW)
 ### Insights
++ More sales were made in November across all years considered
 ---
 ## Key Findings
++ The store's monthly revenue shows that the store sold more in November
++ The store's top customers by sales and number of oreders can be seen here. [Here](https://ibb.co/v6qj86yf)
 ---
 ## Dashboard Previews
 ---
