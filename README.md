@@ -13,7 +13,7 @@
   2. [SQL Queries](#sql-queries)
   3. [Power BI Dashboard](#power-bi-dashboard)
 + [Key Findings](#key-findings)
-+ [Screenshots/Dashboard Previews](#screenshots/dashboard-previews)
++ [Dashboard Previews](#dashboard-previews)
 + [Conclusion](#conclusion)
 ---
 ## Dataset Description
