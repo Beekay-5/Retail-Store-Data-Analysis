@@ -40,11 +40,14 @@
 #### Then, I filtered and checked for other missing values and I replaced them with either zero or "null" for numbered fields and text fields respectively.
 ---
 ### Analysis and Isights
-#### After cleaning the dataset, I went ahead to analyze using the following tools, keeping in mind the objectives of this project.
+#### After cleaning the dataset, I went ahead to analyze using the following tools, keeping in mind the objectives of this project. While cleaning, I realized that dropping the fields that contained the null values would be detrimental to the analysis, so the result still shows the outcome of the null values.
 ## Excel Analysis
 [Pivotting](https://ibb.co/Q3zFNYP8)
 ### Insights
++ There were more sales made in the united kingdom
++ More sales were made in January across all years considered
 ## SQL Queries
+[Queries](https://ibb.co/Wvj1smts)
 ### Insights
 ## Power BI Dashboard
 ### Insights
