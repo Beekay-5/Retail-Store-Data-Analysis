@@ -42,7 +42,7 @@
 ### Analysis and Isights
 #### After cleaning the dataset, I went ahead to analyze using the following tools, keeping in mind the objectives of this project.
 ## Excel Analysis
-
+[Pivotting](https://ibb.co/Q3zFNYP8)
 ### Insights
 ## SQL Queries
 ### Insights
