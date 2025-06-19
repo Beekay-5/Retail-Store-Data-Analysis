@@ -64,8 +64,7 @@
 + Top countries by number of customer [here](https://ibb.co/DfxX1xph)
 ---
 ## Dashboard Previews
-[Excel Dashboard](https://ibb.co/YY5PBMb)
-[Power BI Dashboard](https://ibb.co/kVzVd4SC)
+1. [Excel Dashboard](https://ibb.co/YY5PBMb)
+2. [Power BI Dashboard](https://ibb.co/kVzVd4SC)
 ---
-## Conclusion
 
