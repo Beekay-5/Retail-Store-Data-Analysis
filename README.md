@@ -49,6 +49,8 @@
 ## SQL Queries
 [Queries](https://ibb.co/Wvj1smts)
 ### Insights
++ [Top 5 countries bym sales- United KIngdom being the first](https://ibb.co/v6qj86yf)
++ [Detecting negative quantities](https://ibb.co/Tqb00Zv5)
 ## Power BI Dashboard
 ### Insights
 ---
